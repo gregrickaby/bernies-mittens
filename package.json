@@ -22,7 +22,7 @@
     "stripe": "8.161.0",
     "swr": "^0.5.6",
     "tailwindcss": "^2.2.4",
-    "use-shopping-cart": "2.4.3"
+    "use-shopping-cart": "3.0.0"
   },
   "devDependencies": {
     "@types/micro": "^7.3.5",
